@@ -54,21 +54,21 @@ The project compares a **Baseline Model** with an **Improved Model**.
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 98.4533% |
-| Precision | 98.2988% |
-| Recall | 98.6133% |
-| F1-Score | 98.4558% |
+| Accuracy | 98.56% |
+| Precision | 97.7953% |
+| Recall | 99.3600% |
+| F1-Score | 98.5714% |
 
 ### Improved Model
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 98.7467% |
-| Precision | 98.8248% |
-| Recall | 98.6667% |
-| F1-Score | 98.7457% |
+| Accuracy | 98.80% |
+| Precision | 98.5154% |
+| Recall | 99.0933% |
+| F1-Score | 98.8035% |
 
-The improved model increased the test accuracy from **98.45% to 98.75%**.
+The improved model increased the test accuracy from **98.56% to 98.80%**.
 
 ### Dropout Experiment
 
